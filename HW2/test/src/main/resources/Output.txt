@@ -1,0 +1,154 @@
+  # # # # # # # # # # # #
+ Students:  #
+ # # # # # # # # # # # #
+    Name: Simba       #
+    Department: Computer Science       #
+    Status: MSc       #
+    Publications: 4       #
+    Papers Read: 4       #
+    Trained Models:        #
+            Name:YOLO10          #
+            Data:            #
+                Type:Images            #
+                Size:200000            #
+            Status:Tested            #
+            Results:Good            #
+            Name:ResNet9000          #
+            Data:            #
+                Type:Images            #
+                Size:200000            #
+            Status:Tested            #
+            Results:Good            #
+            Name:LessEfficientNet          #
+            Data:            #
+                Type:Images            #
+                Size:20000            #
+            Status:Tested            #
+            Results:Good            #
+            Name:DensestNet          #
+            Data:            #
+                Type:Images            #
+                Size:200000            #
+            Status:Tested            #
+            Results:Bad            #
+ # # # # # # # # # # # #
+    Name: Zazu       #
+    Department: EE       #
+    Status: PhD       #
+    Publications: 0       #
+    Papers Read: 7       #
+    Trained Models:        #
+ # # # # # # # # # # # #
+    Name: Pumba       #
+    Department: Computer Science       #
+    Status: PhD       #
+    Publications: 4       #
+    Papers Read: 3       #
+    Trained Models:        #
+            Name:Bert          #
+            Data:            #
+                Type:Text            #
+                Size:1000000            #
+            Status:Tested            #
+            Results:Good            #
+            Name:GPT4          #
+            Data:            #
+                Type:Text            #
+                Size:1000000            #
+            Status:Tested            #
+            Results:Good            #
+            Name:GPT5          #
+            Data:            #
+                Type:Text            #
+                Size:200000            #
+            Status:Tested            #
+            Results:Good            #
+            Name:GPT10          #
+            Data:            #
+                Type:Text            #
+                Size:50000            #
+            Status:Tested            #
+            Results:Good            #
+ # # # # # # # # # # # #
+    Name: Timon       #
+    Department: SE       #
+    Status: MSc       #
+    Publications: 0       #
+    Papers Read: 7       #
+    Trained Models:        #
+ # # # # # # # # # # # #
+    Name: Nala       #
+    Department: Computer Science       #
+    Status: PhD       #
+    Publications: 0       #
+    Papers Read: 7       #
+    Trained Models:        #
+  # # # # # # # # # # # #
+ Conferences:     #
+  # # # # # # # # # # # #
+    Name:ICML       #
+    Date:20000       #
+    Publications:       #
+            Name:Bert          #
+            Data:           #
+                Type:Text              #
+                Size:1000000              #
+            Status:Tested            #
+            Results:Good            #
+  # # # # # # # # # # # #
+    Name:NeurIPS       #
+    Date:25000       #
+    Publications:       #
+            Name:LessEfficientNet          #
+            Data:           #
+                Type:Images              #
+                Size:20000              #
+            Status:Tested            #
+            Results:Good            #
+            Name:GPT10          #
+            Data:           #
+                Type:Text              #
+                Size:50000              #
+            Status:Tested            #
+            Results:Good            #
+  # # # # # # # # # # # #
+    Name:CVPR       #
+    Date:30000       #
+    Publications:       #
+            Name:ResNet9000          #
+            Data:           #
+                Type:Images              #
+                Size:200000              #
+            Status:Tested            #
+            Results:Good            #
+            Name:GPT5          #
+            Data:           #
+                Type:Text              #
+                Size:200000              #
+            Status:Tested            #
+            Results:Good            #
+  # # # # # # # # # # # #
+    Name:ECCV       #
+    Date:40000       #
+    Publications:       #
+  # # # # # # # # # # # #
+    Name:AISTATS       #
+    Date:50000       #
+    Publications:       #
+            Name:YOLO10          #
+            Data:           #
+                Type:Images              #
+                Size:200000              #
+            Status:Tested            #
+            Results:Good            #
+            Name:GPT4          #
+            Data:           #
+                Type:Text              #
+                Size:1000000              #
+            Status:Tested            #
+            Results:Good            #
+  # # # # # # # # # # # #
+ CPU time use: 312697    #
+ Data Batches Processed: 57796    #
+ GPU time use: 75532    #
+  # # # # # # # # # # # #
